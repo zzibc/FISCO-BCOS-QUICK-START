@@ -21,7 +21,7 @@ FISCO BCOS是由金链盟开源工作组协作打造的国产联盟链底层平�
 
 谨记谨记：如果文档描述不清楚或错误的地方，[所有内容！！！！] 都可在[FISCO BCOS仓库](https://github.com/FISCO-BCOS) 找到答案！
 本手册只供新手入门
-##准备工作
+## 准备工作
 
 完全离线安装FISCO BCOS，一步一步的安装容易排查环境错误，有助于走进FISCO BCOS。
 
@@ -55,7 +55,7 @@ FISCO BCOS是由金链盟开源工作组协作打造的国产联盟链底层平�
   * [gitee releases](https://gitee.com/FISCO-BCOS/console/releases/v2.8.0)
   * [gitee下载地址](https://gitee.com/FISCO-BCOS/console/attach_files/812963/download/console.tar.gz)
 
-##安装FISCO BCOS
+## 安装FISCO BCOS
 
 * 一、基础环境安装
   * 以root用户登录，创建两个目录 fisco 、 jdk 和 soft目录
@@ -172,8 +172,7 @@ FISCO BCOS是由金链盟开源工作组协作打造的国产联盟链底层平�
     * 正常输出，表示安装成功
     * 输入 quit 退出控制台
     * [group:1]> quit  # 退出控制台
-
-##部署智能合约
+## 部署智能合约
 * 一、编写智能合约
   * 以HellWorld合约为例
   * HellWorld.sol文件位于：~/fisco/console/contracts/solidity/目录下
@@ -206,7 +205,7 @@ FISCO BCOS是由金链盟开源工作组协作打造的国产联盟链底层平�
   * 输入 quit 退出控制台
   * [group:1]> quit  # 退出控制台
 
-##调用智能合约
+## 调用智能合约
 * 一、控制台调用HelloWorld合约
   * 启动控制台
   * cd ~/fisco/console
