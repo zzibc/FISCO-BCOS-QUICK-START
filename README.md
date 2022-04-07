@@ -30,8 +30,8 @@ FISCO BCOS是由金链盟开源工作组协作打造的国产联盟链底层平�
       选择自己顺手的，保证可以创建虚拟机、修改IP、配通网络等基础操作；
 
 * 二、下载CentOS的完整镜像（CentOS-7-x86_64-DVD-2009.iso）
-  * [腾讯仓库](https://mirrors.cloud.tencent.com/centos/7.9.2009/isos/x86_64/CentOS-7-x86_64-DVD-2009.iso) 
-  * [阿里仓库](https://mirrors.aliyun.com/centos/7.9.2009/isos/x86_64/CentOS-7-x86_64-DVD-2009.iso)
+  * [腾讯仓库下载CentOS-7-x86_64-DVD-2009.iso](https://mirrors.cloud.tencent.com/centos/7.9.2009/isos/x86_64/CentOS-7-x86_64-DVD-2009.iso) 
+  * [阿里仓库下载CentOS-7-x86_64-DVD-2009.iso](https://mirrors.aliyun.com/centos/7.9.2009/isos/x86_64/CentOS-7-x86_64-DVD-2009.iso)
 
 * 三、下载JDK1.8及以上的linux安装包（jdk-8u321-linux-x64.tar.gz）
   * [ORACLE官网下载](https://www.oracle.com/java/technologies/downloads/) | 在下载页面Ctrl+F查找jdk-8u321-linux-x64.tar.gz
@@ -39,21 +39,21 @@ FISCO BCOS是由金链盟开源工作组协作打造的国产联盟链底层平�
 
 * 四、下载FISCO BCOS底层链安装脚本（build_chain.sh）
   * [github releases](https://github.com/FISCO-BCOS/FISCO-BCOS/releases/tag/v2.8.0)
-  * [github下载地址](https://github.com/FISCO-BCOS/FISCO-BCOS/releases/download/v2.8.0/build_chain.sh)
+  * [github下载build_chain.sh](https://github.com/FISCO-BCOS/FISCO-BCOS/releases/download/v2.8.0/build_chain.sh)
   * [gitee releases](https://gitee.com/FISCO-BCOS/FISCO-BCOS/releases/v2.8.0)
-  * [gitee下载地址](https://gitee.com/FISCO-BCOS/FISCO-BCOS/attach_files/816587/download/build_chain.sh)
+  * [gitee下载build_chain.sh](https://gitee.com/FISCO-BCOS/FISCO-BCOS/attach_files/816587/download/build_chain.sh)
 
 * 五、下载FISCO BCOS底层链安装包（fisco-bcos.tar.gz v2.8.0）
   * [github releases](https://github.com/FISCO-BCOS/FISCO-BCOS/releases/tag/v2.8.0)
-  * [github下载地址](https://github.com/FISCO-BCOS/FISCO-BCOS/releases/download/v2.8.0/fisco-bcos.tar.gz)
+  * [github下载fisco-bcos.tar.gz](https://github.com/FISCO-BCOS/FISCO-BCOS/releases/download/v2.8.0/fisco-bcos.tar.gz)
   * [gitee releases](https://gitee.com/FISCO-BCOS/FISCO-BCOS/releases/v2.8.0)
-  * [gitee下载地址](https://gitee.com/FISCO-BCOS/FISCO-BCOS/attach_files/816588/download/fisco-bcos.tar.gz)
+  * [gitee下载fisco-bcos.tar.gz](https://gitee.com/FISCO-BCOS/FISCO-BCOS/attach_files/816588/download/fisco-bcos.tar.gz)
 
 * 六、下载FISCO BCOS控制台安装包（console.tar.gz v2.8.0）
   * [github releases](https://github.com/FISCO-BCOS/console/releases/tag/v2.8.0)
-  * [github下载地址](https://github.com/FISCO-BCOS/console/releases/download/v2.8.0/console.tar.gz)
+  * [github下载console.tar.gz](https://github.com/FISCO-BCOS/console/releases/download/v2.8.0/console.tar.gz)
   * [gitee releases](https://gitee.com/FISCO-BCOS/console/releases/v2.8.0)
-  * [gitee下载地址](https://gitee.com/FISCO-BCOS/console/attach_files/812963/download/console.tar.gz)
+  * [gitee下载console.tar.gz](https://gitee.com/FISCO-BCOS/console/attach_files/812963/download/console.tar.gz)
 
 ## 安装FISCO BCOS
 
